@@ -1,0 +1,26 @@
+{
+  "name": "node-template-backend",
+  "version": "0.0.3",
+  "description": "",
+  "main": ".",
+  "scripts": {},
+  "bin": {
+    "aeiou-test": "./index.bat"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishal27shenoy/node-template.git"
+  },
+  "keywords": [
+    "node",
+    "node-template",
+    "backend",
+    "nodebackend"
+  ],
+  "author": "vishal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishal27shenoy/node-template/issues"
+  },
+  "homepage": "https://github.com/vishal27shenoy/node-template#readme"
+}
